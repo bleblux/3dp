@@ -2,6 +2,10 @@
 
 A real-time 3D window effect application that creates an immersive perspective illusion based on Johnny Chung Lee's experiments (2008). The screen acts as a fixed window through which a 3D scene is viewed, and the perspective changes dynamically as you move your head and body.
 
+## Demo Video
+
+You can see the application in action by viewing the [demo video](demo.mp4) included in this repository.
+
 ## Features
 
 - **Real-time head tracking** using MediaPipe Face Landmarker
