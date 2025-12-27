@@ -31,6 +31,8 @@ face_landmarker.task
 *.avi
 *.mov
 *.mkv
+# Exception: demo video for repository
+!demo.mp4
 
 # IDE
 .vscode/
